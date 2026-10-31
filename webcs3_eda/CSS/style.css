@@ -1,0 +1,22 @@
+<style>
+        p {
+            color:red;
+            text-align: center;
+            font-style: italic;
+        }
+        h1{
+            color: rgb(120, 25, 122);
+            text-align: center;
+        }
+        body{
+            background-color: beige;
+        }
+        #p1 {
+            color: blue;
+            text-align: justify;
+        }
+        #hh1 {
+            color: chartreuse;
+            text-align: justify;
+        }
+    </style>
